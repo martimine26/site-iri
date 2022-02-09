@@ -150,4 +150,21 @@ svg{
    min-width: 150px;
  }
 }
+@media (max-width: 450px) {
+  .text{
+    font-size: 15px;
+  }
+  .slider{
+    margin-top: 25px;
+  }
+}
+@media (max-width: 366px) {
+  .main{
+    margin-left: -30px;
+    overflow-x: none;
+  }
+  .slider{
+    margin-left: 20px;
+  }
+}
 </style>

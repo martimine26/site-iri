@@ -8,7 +8,7 @@
            <button type="button" name="button" @click="eventOne()" id="swi">
              <img src="@/assets/arrow-left-short.svg" alt="">
            </button>
-           <textSlider />
+            <textSlider />
            <button type="button" name="button" @click="eventTwo()" id="swi1">
              <img src="@/assets/arrow-right-short.svg" alt="">
            </button>
@@ -99,9 +99,11 @@ img{
 @media (max-width: 450px) {
 .block{
   flex-direction: column;
-  width: 80%;
+  width: 100%;
   height: 800px;
   font-size: 10px;
+  padding: 5px;
+  padding-top: 10px;
 }
 .new{
   flex-direction: column;
@@ -113,7 +115,7 @@ img{
 @media (max-width: 995px) {
 .block{
   flex-direction: column;
-  width: 80%;
+  width: 100%;
   height: 800px;
   font-size: 10px;
 }
@@ -126,8 +128,16 @@ img{
 }
 }
 @media (max-width: 366px) {
- .text{
-   margin-left: -37px;
+
+ .block{
+   width: 100%;
+ }
+ img{
+   width: 35px;
+   position: absolute;
+ }
+ #swi1{
+   margin-left: -40px;
  }
 }
 </style>

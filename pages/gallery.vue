@@ -84,4 +84,9 @@ export default {
   flex-direction: column;
   padding: 30px;
 }
+@media (max-width: 450px){
+  .block{
+    width: 100%;
+  }
+}
 </style>
