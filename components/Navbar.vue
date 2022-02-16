@@ -2,7 +2,7 @@
   <section style="width:100%;">
     <div class="main">
       <div class="container" >
-        <NuxtLink to="/"><img src="@/assets/logotip.jpeg" width="70px"></NuxtLink>
+        <NuxtLink to="/"><img src="@/assets/logotip.png" width="70px"></NuxtLink>
          <div class="mainNav">
            <NuxtLink to="/" class="text-nav service">Федерация
              <nav class="hov">
