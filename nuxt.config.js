@@ -14,7 +14,8 @@ export default {
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
       { hid: 'description', name: 'description', content: process.env.npm_package_description || '' },
-      { name: 'yandex-verification', content: '4d78135e19b7ee94'}
+      { name: 'yandex-verification', content: '4d78135e19b7ee94'},
+      { name: 'google-site-verification', content: 'SgWCbIWC9G1RnVJQQpuLgdFQnVSdH0zomragqF9t86U'}
     ],
     link: [
       { rel: 'icon', type: 'image/x-icon', href: '/logotip.ico' }
