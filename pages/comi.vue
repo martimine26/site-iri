@@ -8,7 +8,10 @@
           <div class="text">
             <h4>{{item.comi}}</h4>
             <p>{{item.text}}</p>
-            <p>{{item.name}}</p>
+            <p>Члены комитета:</p>
+            <p class="elem">{{item.name}}</p>
+            <p class="elem">{{item.name1}}</p>
+            <p class="elem">{{item.name2}}</p>
           </div>
         </div>
       </div>
@@ -85,5 +88,8 @@ h1{
   h4{
     font-size: 12px;
   }
+}
+.elem{
+  margin-top: -20px;
 }
 </style>

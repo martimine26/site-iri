@@ -12,9 +12,9 @@
              </nav>
            </NuxtLink>
            <NuxtLink to="/docu" class="text-nav">Документы</NuxtLink>
-           <NuxtLink to="/gallery" class="text-nav">О тхэквандо гтф</NuxtLink>
+           <NuxtLink to="/gallery" class="text-nav">О тхэквондо ГТФ</NuxtLink>
            <NuxtLink to="/antidoping" class="text-nav">Антидопинг</NuxtLink>
-           <NuxtLink to="#" class="text-nav">Контакты</NuxtLink>
+           <NuxtLink to="/contacts" class="text-nav">Контакты</NuxtLink>
          </div>
      </div>
     </div>

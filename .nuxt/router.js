@@ -6,6 +6,7 @@ import scrollBehavior from './router.scrollBehavior.js'
 
 const _f0a85074 = () => interopDefault(import('../pages/antidoping.vue' /* webpackChunkName: "pages/antidoping" */))
 const _8cbfa1a2 = () => interopDefault(import('../pages/comi.vue' /* webpackChunkName: "pages/comi" */))
+const _cca4390c = () => interopDefault(import('../pages/contacts.vue' /* webpackChunkName: "pages/contacts" */))
 const _1119ffe4 = () => interopDefault(import('../pages/docu.vue' /* webpackChunkName: "pages/docu" */))
 const _698500fb = () => interopDefault(import('../pages/gallery.vue' /* webpackChunkName: "pages/gallery" */))
 const _7c1e16d8 = () => interopDefault(import('../pages/ourclubs.vue' /* webpackChunkName: "pages/ourclubs" */))
@@ -32,6 +33,10 @@ export const routerOptions = {
     path: "/comi",
     component: _8cbfa1a2,
     name: "comi"
+  }, {
+    path: "/contacts",
+    component: _cca4390c,
+    name: "contacts"
   }, {
     path: "/docu",
     component: _1119ffe4,
