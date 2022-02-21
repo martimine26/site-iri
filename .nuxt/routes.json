@@ -3,63 +3,54 @@
     "name": "antidoping",
     "path": "/antidoping",
     "component": "/Users/q/Desktop/site-iri/pages/antidoping.vue",
-    "chunkName": "pages/antidoping",
-    "_name": "_f0a85074"
+    "chunkName": "pages/antidoping"
   },
   {
     "name": "comi",
     "path": "/comi",
     "component": "/Users/q/Desktop/site-iri/pages/comi.vue",
-    "chunkName": "pages/comi",
-    "_name": "_8cbfa1a2"
+    "chunkName": "pages/comi"
   },
   {
     "name": "contacts",
     "path": "/contacts",
     "component": "/Users/q/Desktop/site-iri/pages/contacts.vue",
-    "chunkName": "pages/contacts",
-    "_name": "_cca4390c"
+    "chunkName": "pages/contacts"
   },
   {
     "name": "docu",
     "path": "/docu",
     "component": "/Users/q/Desktop/site-iri/pages/docu.vue",
-    "chunkName": "pages/docu",
-    "_name": "_1119ffe4"
+    "chunkName": "pages/docu"
   },
   {
     "name": "gallery",
     "path": "/gallery",
     "component": "/Users/q/Desktop/site-iri/pages/gallery.vue",
-    "chunkName": "pages/gallery",
-    "_name": "_698500fb"
+    "chunkName": "pages/gallery"
   },
   {
     "name": "ourclubs",
     "path": "/ourclubs",
     "component": "/Users/q/Desktop/site-iri/pages/ourclubs.vue",
-    "chunkName": "pages/ourclubs",
-    "_name": "_7c1e16d8"
+    "chunkName": "pages/ourclubs"
   },
   {
     "name": "ruk",
     "path": "/ruk",
     "component": "/Users/q/Desktop/site-iri/pages/ruk.vue",
-    "chunkName": "pages/ruk",
-    "_name": "_c5c32c9e"
+    "chunkName": "pages/ruk"
   },
   {
     "name": "news-id",
     "path": "/news/:id?",
     "component": "/Users/q/Desktop/site-iri/pages/news/_id.vue",
-    "chunkName": "pages/news/_id",
-    "_name": "_22f5a3b6"
+    "chunkName": "pages/news/_id"
   },
   {
     "name": "index",
     "path": "/",
     "component": "/Users/q/Desktop/site-iri/pages/index.vue",
-    "chunkName": "pages/index",
-    "_name": "_a5b47a8a"
+    "chunkName": "pages/index"
   }
 ]
