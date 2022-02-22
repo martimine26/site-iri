@@ -3,7 +3,7 @@ export default [
     id: 0,
     logo: 'ЛоготипЛидер.jpg',
     photo1: 'photo/ok1.jpg',
-    photo2: 'photo/noPhoto.jpg',
+    photo2: 'photo/greneva.jpg',
     text: 'Спортивный клуб «Лидер»',
     address1:'Москва, ул. Плещеева 3',
     address2:'г. Химки, ул. Лавочкина 13к5',
